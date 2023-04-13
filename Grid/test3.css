@@ -1,0 +1,15 @@
+.btn-primary{
+     color:gold;
+     background-color: white;
+     border-color: white;
+     border-radius: 30px;
+     
+}
+.card-title{
+    margin-top: 200px;
+}
+.view{
+    text-align: left;
+    color: gold;
+    margin-left: 990px;
+}

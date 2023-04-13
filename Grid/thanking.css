@@ -1,0 +1,27 @@
+.thanking-customers-section{
+    background-color: aliceblue;
+}
+.thanking-customers-section-heading{
+    color:blue;
+    font-family: "roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+.thanking-customers-section-description{
+    color:bisque;
+    font-family: "roboto";
+    font-size: 16px;
+}
+.thanking-customers-section-img{
+    width:270px;
+    margin-bottom: 20px;
+}
+.custom-button{
+    color: white;
+    background-color: coral;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
